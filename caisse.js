@@ -16,6 +16,7 @@ if (total_achat<=budget) {
 } else {
     console.log("Budget insuffisant");
 }
+console.log("");
 for (i = 1 ; i < 6; i++) {
     console.log("Achat numéro",+i);
 }
